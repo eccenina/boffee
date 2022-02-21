@@ -10,4 +10,5 @@
     FFmpeg: ffmpeg-static
     
   discord.js - 
+  
   nodemon (optional) - ctrl + s (autosave)
