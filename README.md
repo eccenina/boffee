@@ -12,3 +12,5 @@
   discord.js - 
   
   nodemon (optional) - ctrl + s (autosave)
+
+testing revision pull request
